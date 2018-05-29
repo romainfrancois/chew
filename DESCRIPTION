@@ -1,0 +1,11 @@
+Package: chew
+Type: Package
+Title: Low level hash table
+Version: 0.1.0
+Authors@R: c(
+    person( "Romain", "François", email = "romain@rstudio.com")
+  )
+Description: Low level hash table. Factored out of R's unique.c file. 
+Encoding: UTF-8
+LazyData: true
+License: MIT + file LICENSE
